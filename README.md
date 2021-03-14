@@ -14,5 +14,5 @@ loginout > 로그인, 로그아웃 모듈
 
 ### 4주차) DRF로 화해 서비스 API 만들어보기 + drf-yasg적용하여 API가이드문서
 ```
-!! 커스텀 model과 user모델 사이의 관계 
+!! 커스텀 model과 user모델 사이의 관계 더 공부해보자!
 ```
