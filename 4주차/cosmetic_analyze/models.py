@@ -44,6 +44,7 @@ class Ingredient(models.Model):
 
 class Comment(models.Model):
     author = models.ForeignKey(User, on_delete=models.CASCADE,related_name='Comment_auth')
+    product_id = models.OneToOneField(Cosmetic,on_delete=models.CASCADE,related_name='Comment_productid')
     skin_type = models.CharField(max_length=10,verbose_name=r'피부타입 (지성,건성,민감성)')
     strengths = models.TextField()
     weaknesses = models.TextField()
