@@ -12,4 +12,4 @@ loginout > 로그인, 로그아웃 모듈
 
 ### 3주차) DRF로 Todo API 만들어보기
 
-### 4주차) DRF로 화해 서비스 API 만들어보기 + drf-yasg사용, API가이드문서 
+### 4주차) DRF로 화해 서비스 API 만들어보기 + drf-yasg적용하여 API가이드문서 
